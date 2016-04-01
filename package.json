@@ -1,0 +1,19 @@
+{
+  "name": "Reactive",
+  "description": "Messeging service for mookit platform",
+  "version": "1.0.0",
+  "keywords": [
+    "util",
+    "functional",
+    "server",
+    "client",
+    "browser"
+  ],
+  "author": "Anurag Gautam",
+  "contributors": [],
+  "dependencies": {
+    "express": "^4.13.4",
+    "body-parser": "^1.15.0",
+    "mysql": "^2.10.2"
+  }
+}

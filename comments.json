@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1388534400000,
+        "author": "Pete Hunt",
+        "text": "Hey there!"
+    },
+    {
+        "id": 1420070400000,
+        "author": "Paul O’Shannessy",
+        "text": "React is *great*!"
+    },
+    {
+        "id": 1459336335669,
+        "author": "Anurag",
+        "text": "hello world"
+    },
+    {
+        "id": 1459336356384,
+        "author": "Nitisha",
+        "text": "hi anu"
+    },
+    {
+        "id": 1459338164819,
+        "author": "Nitz",
+        "text": "**I hate u**"
+    },
+    {
+        "id": 1459338177066,
+        "author": "Nit",
+        "text": "`love me like u do`"
+    }
+]
